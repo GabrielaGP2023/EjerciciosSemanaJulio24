@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9417a7a4-4a55-4f18-9482-08669bed36aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana23_Julio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/_01_ejercicio_repasoM2U2U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/_02_ejercicio_repasoM2U2U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/_03_ejercicio_repasoM2U2U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/ejercicio_04/ClienteSencillo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/ejercicio_04/ServidorSencillo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/ejercicio_05/ClienteCifrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/ejercicio_05/ServidorCifrado.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jdoU4WnQ1yrQwHNwnu8tA701vR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClienteCifrado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClienteSencillo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ServidorCifrado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ServidorSencillo.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_ejercicio_repasoM2U2U3.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_ejercicio_repasoM2U2U3.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_ejercicio_repasoM2U2U3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.organizacion.presentacion.ejercicio_05.ClienteSencillo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.organizacion.presentacion.ejercicio_05.ServidorSencillo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/Semana23_Julio/src/com/organizacion/presentacion/ejercicio_05&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\Semana23_Julio\src\com\organizacion\presentacion\ejercicio_05" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\Semana23_Julio\src\com\organizacion\presentacion" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\Semana23_Julio\src\com\organizacion\presentacion\ejercicio_04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ServidorCifrado">
+    <configuration name="ClienteCifrado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.ejercicio_05.ClienteCifrado" />
+      <module name="Semana23_Julio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.ejercicio_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteSencillo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.ejercicio_04.ClienteSencillo" />
+      <module name="Semana23_Julio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.ejercicio_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServidorCifrado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.ejercicio_05.ServidorCifrado" />
+      <module name="Semana23_Julio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.ejercicio_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServidorSencillo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.ejercicio_04.ServidorSencillo" />
+      <module name="Semana23_Julio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.ejercicio_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_ejercicio_repasoM2U2U3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion._03_ejercicio_repasoM2U2U3" />
+      <module name="Semana23_Julio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClienteCifrado" />
+        <item itemvalue="Application.ServidorCifrado" />
+        <item itemvalue="Application.ClienteSencillo" />
+        <item itemvalue="Application.ServidorSencillo" />
+        <item itemvalue="Application._03_ejercicio_repasoM2U2U3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9417a7a4-4a55-4f18-9482-08669bed36aa" name="Changes" comment="" />
+      <created>1721726326780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721726326780</updated>
+    </task>
+    <servers />
+  </component>
+</project>
